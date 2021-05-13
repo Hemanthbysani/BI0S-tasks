@@ -1,0 +1,2 @@
+i found a website which had the same code in C, i ran it and it gave me this output.
+website:https://onecompiler.com/java/3vbbfcjy2

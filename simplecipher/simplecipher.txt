@@ -1,0 +1,2 @@
+while searching for the meaning of some of the functions in encrypt.py, i found a ctf website which had the same challenege and followed through which explained the decrypt program to me, i understood how it works and saw the flag at the end.
+link to ctf: https://ctftime.org/writeup/7355

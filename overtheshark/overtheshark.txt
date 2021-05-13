@@ -1,0 +1,3 @@
+first crack the zip file using dictionary or bruteforce, this did not work as the file had some problem.
+next since its a pcap file use wireshark to read the file.
+found a http link, and file embedded in the packets.

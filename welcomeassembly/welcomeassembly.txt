@@ -1,0 +1,1 @@
+view the process and keep finding latest value of eax

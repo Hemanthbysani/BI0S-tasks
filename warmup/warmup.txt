@@ -1,0 +1,1 @@
+Use inspect element to find the hidden parts of the flag

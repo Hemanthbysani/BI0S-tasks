@@ -1,0 +1,6 @@
+1. crack the password of the zip file using fcrackzip
+2. the password found using common wordlist was "pass0001"
+3. the png file extracted looks to be corrupted!
+4. use hexedit to edit the png file
+5. find irregular chunks and edit them to proper bits using hexdedit 
+6. open png to find the flag

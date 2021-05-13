@@ -1,0 +1,6 @@
+inctfj{R0Xy_1s_Crypt0_R3v3rs3}
+learn about how xor works(its really weird)
+try solving for 2-3 days
+give up after knowing that otp(24) was not even required
+call krishna sai several times
+finally get the flag after wasting a hell lot of time

@@ -1,0 +1,1 @@
+found similarities between the before challenge in hardware and tried to correlate, saw that the sequence was similar and changed the loop values accordingly to the next added.
